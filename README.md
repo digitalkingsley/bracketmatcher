@@ -1,5 +1,5 @@
 # bracketmatcher
-**Algorithm That Matches All Brackets In A String**
+**A JavaScript Program That Matches All Brackets In A String**
 
 
 Bracket Matcher accepts any string of brackets and then produces a new string of matched brackets.
